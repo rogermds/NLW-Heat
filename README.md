@@ -7,5 +7,5 @@ Ferramentas utilizadas:
 - Typescript
 - Socket.IO
 
-** yarn dev => start app
-** yarn prisma studio => BD
+-* yarn dev => start app
+-* yarn prisma studio => BD
